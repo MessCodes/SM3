@@ -11,4 +11,5 @@ prj/ipch/
 prj/**/Debug/
 !prj/Debug/
 prj/**/Release/
+!prj/Release/
 sig/
