@@ -1,0 +1,14 @@
+*.obj
+*.tlog
+*.idb
+*.swp
+*.sdf
+*.suo
+*.opensdf
+
+backup/
+prj/ipch/
+prj/**/Debug/
+!prj/Debug/
+prj/**/Release/
+sig/
